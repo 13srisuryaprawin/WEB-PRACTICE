@@ -1,0 +1,174 @@
+*{
+   font-family:Verdana, sans-serif;
+}
+
+.button-1-1{
+    width: 140px;
+    height:40px;
+    font-weight: 400px;
+    font-size: 15px;
+    letter-spacing: 1.75px;
+    background-color:white;
+    border: 0px;
+    margin-bottom: 1px;
+
+}
+.nav{
+    position: sticky;
+    top: 0%;
+}
+.nav-bar{
+    display: flex;
+    position:sticky;
+    top: 0%;
+}
+
+.button-2{
+    padding-left: 900px;
+    
+}
+
+.one-img{
+    margin-bottom: 30px;
+}
+
+.section-3{
+    font-size: 24px;
+    text-indent: 15px;
+}
+
+.section-3>hr{
+    text-indent: 15px;
+    opacity:0.3;
+}
+
+.img-1-div-1-4{
+    display:flex;
+    justify-content: space-around;
+    margin-bottom: 15px;
+}
+.img-1-div-1{
+   background-image: url(https://www.w3schools.com/w3images/house5.jpg);
+   width: 360px;
+   height: 230px;
+   background-color: black;
+   color: white;
+}
+.img-1-div-2{
+   background-image: url(https://www.w3schools.com/w3images/house2.jpg);
+   width: 360px;
+   height: 230px;
+}
+.img-1-div-3{
+   background-image: url(https://www.w3schools.com/w3images/house3.jpg);
+   width: 360px;
+   height: 230px;
+}
+.img-1-div-4{
+   background-image: url(https://www.w3schools.com/w3images/house4.jpg);
+   width: 360px;
+   height: 230px;
+}
+.button-2-1{
+    width: 140px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+}
+
+
+
+.img-2-div-1-4{
+    display:flex;
+    justify-content: space-around;
+    margin-bottom: 70px;    
+}
+.img-2-div-1{
+   background-image: url(https://www.w3schools.com/w3images/house2.jpg);
+   width: 360px;
+   height: 230px;
+   background-color: black;
+   color: white;
+}
+.img-2-div-2{
+   background-image: url(https://www.w3schools.com/w3images/house5.jpg);
+   width: 360px;
+   height: 230px;
+}
+.img-2-div-3{
+   background-image: url(https://www.w3schools.com/w3images/house4.jpg);
+   width: 360px;
+   height: 230px;
+}
+.img-2-div-4{
+   background-image: url(https://www.w3schools.com/w3images/house3.jpg);
+   width: 360px;
+   height: 230px;
+}
+
+.section-about>p{
+    font-size: 21px;
+    text-indent: 15px;
+}
+.section-about>hr{
+    opacity: 0.3;
+}
+
+.div-last-img-1>img{
+    width: 350px;
+}
+.div-last-img-1{
+  width: 350px;
+}
+
+.div-last-img-1>button{
+    width: 350px;
+    height: 30px;
+    font-size: 16px;
+    background-color:#f1f1f1;
+    border-style: hidden;
+}
+
+.last-div{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 90px;
+}
+
+.section-footer>p{
+    font-size: 24px;
+    padding-left: 20px;
+}
+.section-footer>hr{
+    opacity: 0.3;
+}
+
+.section-footer-1>input{
+    width: 1475px;
+    height: 35px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.section-footer-1>button{
+    background-color: black;
+    color: white;
+    width: 140px;
+    height: 40px;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+.footer-last0{
+    text-align: center;
+    background-color: black;
+    color: white;
+    border:30px;
+    border-style: solid;
+    border-color: black ;
+}
+
+.footer-last0>p>a{
+    color: white;
+}
